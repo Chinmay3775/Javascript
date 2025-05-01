@@ -24,6 +24,6 @@ console.log(isBoolean);
 let somenum=33;
 let strnum=String(somenum)
 console.log(strnum);
-console.log(typeof strnum);
+console.log(typestrnum);
 
 
